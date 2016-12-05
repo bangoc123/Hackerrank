@@ -27,11 +27,4 @@ Output the value of the second largest number.
 
 ```
 5
-2 3 6 6 5
-```
-
-####Sample Output
-
-```
-5
 ```
